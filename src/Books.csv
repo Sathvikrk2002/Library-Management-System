@@ -1,0 +1,14 @@
+bookId,title,author,category,isAvailable
+1001,Making India Awesome,Chetan Bhagat,Social Science,TRUE
+1002,Java,Antony,Programming,FALSE
+592,Linux,Gina,Software,false
+553,World War 1,Tina,History,FALSE
+654,Micro organism,Bina,Science,TRUE
+1003,Half Girlfriend,Chetan Bhagat,Love,TRUE
+1004,An Autobiography,Jawaharlal Nehru,bibliography ,FALSE
+211,The nature beauty,pretty princess,fantasy,TRUE
+280,Murder Mystery,Jason,Crime,TRUE
+27,The powerful wind,Goshal,Nature,FALSE
+974,The Computer,James,Machine,TRUE
+216,Ching hu,Rose,chinese,TRUE
+645,The beast,John,Strange,true
